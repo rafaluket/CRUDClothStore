@@ -10,5 +10,22 @@ O projeto foi feito utilizando JAVA, JS, HTML, CSS, servlets e desenvolvido atra
 
 ### CADASTRO
 
-❌ Cadastro com ERRO
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+#### ❌ Cadastro com ERRO
+
+![GIF Cadastro Error](https://github.com/rafaluket/CRUDClothStore/blob/main/master/images/CadastroError.gif?raw=true)
+
+#### ✅ Cadastro com SUCESSO
+
+![GIF Cadastro Sucesso](https://github.com/rafaluket/CRUDClothStore/blob/main/master/images/CadastroSuccess.gif?raw=true)
+
+### EDITAR
+
+![GIF Editar](https://github.com/rafaluket/CRUDClothStore/blob/main/master/images/Editar.gif?raw=true)
+
+### REMOVER
+
+![GIF DELETE](https://github.com/rafaluket/CRUDClothStore/blob/main/master/images/Delete.gif?raw=true)
+
+### ORDENAR
+
+![GIF Ordenar](https://github.com/rafaluket/CRUDClothStore/blob/main/master/images/Ordenar.gif?raw=true)
